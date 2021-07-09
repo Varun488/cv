@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    text-align:center;
+   color: #40514E;
+}
+h1{
+    margin:20px;
+    font-family: 'Satisfy', cursive;
+    font-size: 80px;
+    color:#66BFBF;
+    line-height: 2;
+}
+body{
+    text-align: center;
+    font-family:'Rubik', sans-serif;
+}
+
+.top-container{
+    background-color:#E4F9F5;
+    position:relative;
+    padding-top: 200px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 380px;
+
+}
+.top-cloud{
+    position:absolute;
+    top:50px;
+    right:420px;
+}
+h2{
+    font-size:2.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+    padding-bottom:20px;
+    padding-top: 30px;
+}
+h3{
+    color:#11999E;
+}
+a {
+    color:#11999E;
+    margin:10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    line-height: 2;
+}
+.skill-image{
+    width:25%;
+    float:left;
+    padding-right:  20px;
+}
+.middle-container{
+    margin:100px 0 100px 0;
+}
+.intro{
+    width:30%;
+    margin:auto;
+    padding-bottom: 20px;
+    text-align: left;
+}
+p{
+    line-height:2;
+}
+hr{
+    border: dotted grey 6px;
+    width:10%;
+    margin:auto;
+    border-bottom:none;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.contact{
+    width:30%;
+    margin:40px auto 60px;
+}
+.btn {
+    background: #00ff48;
+    background-image: -webkit-linear-gradient(top, #00ff48, #375c2d);
+    background-image: -moz-linear-gradient(top, #00ff48, #375c2d);
+    background-image: -ms-linear-gradient(top, #00ff48, #375c2d);
+    background-image: -o-linear-gradient(top, #00ff48, #375c2d);
+    background-image: linear-gradient(to bottom, #00ff48, #375c2d);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #030303;
+    font-size: 20px;
+    padding: 10px 25px 14px 22px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #66bfbf;
+    text-decoration: none;
+  }
+  .bottom-container{
+      background-color: #66BFBF;
+      padding-top:30px;
+  }
